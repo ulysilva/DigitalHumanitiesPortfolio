@@ -12,7 +12,9 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 - [Digital Narrative/Game](game.html)
 - [Tracery HTML Project](tracery.html)
 - [Research Project](researchproject.md)
----
+  
+---  
+  
 **Week 1: Welcome!**  
 - Read/watch/listen to everything in the Welcome! module  
 - Complete Academic Activity Verification by 11:59pm Thursday  

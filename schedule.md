@@ -1,3 +1,4 @@
+
 # Course Schedule  
 *Notes:*
 - *This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.*
@@ -5,10 +6,10 @@
 
 *Consider renaming this "My Projects" or "Sample Work" and linking your projects here!*
 **Sample Work**
-- [Distant Reading Project](/DIG3171/distantreading.md)
-- [Digital Narrative/Game](/DIG3171/game.html)
-- [Tracery HTML Project](DIG3171/tracery.html)
-- [Research Project](DIG3171/researchproject.md)
+- [Distant Reading Project](distantreading.md)
+- [Digital Narrative/Game](game.html)
+- [Tracery HTML Project](tracery.html)
+- [Research Project](researchproject.md)
 
 **Week 1: Welcome!**  
 - Read/watch/listen to everything in the Welcome! module  

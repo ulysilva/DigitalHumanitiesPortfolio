@@ -1,9 +1,14 @@
 # Course Schedule  
 *Notes:*
-- *Consider renaming this "My Projects" and linking your projects here!*  
 - *This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.*
 - *This is just here for your reference. The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/courses/1488031/external_tools/374802)*
 
+*Consider renaming this "My Projects" or "Sample Work" and linking your projects here!*
+**Sample Work**
+- [Distant Reading Project](/DIG3171/distantreading.md)
+- [Digital Narrative/Game](/DIG3171/game.html)
+- [Tracery HTML Project](DIG3171/tracery.html)
+- [Research Project](DIG3171/researchproject.md)
 
 **Week 1: Welcome!**  
 - Read/watch/listen to everything in the Welcome! module  
@@ -12,7 +17,7 @@
 **Week 2: GitHub Digital Portfolio**  
 - Read Drucker Ch. 1: (DH overview)  
 - Read Johnson & Salter Ch. 9 (Generation)  
-- Read Ratto article (What is critical making)  
+- Read Ratto article (What is critical making?)  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
 - Post your working GitHub portfolio link by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
@@ -29,7 +34,7 @@
 - Read Rambsy article (Text-mining short fiction)  
 - Read Drucker Ch. 7 (Data mining & analysis)  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
-- Post your [Distant Reading Exercise](/distantreading.md) by 11:59pm Tuesday  
+- Post your [Distant Reading Exercise](/DIG3171/distantreading.md) by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 5: Digital Narratives Part 1**  
@@ -43,13 +48,13 @@
 - Read Burdick et al. Ch. 1 (What is DH) and Ch. 2 (DH methods & genres)  
 - Read Johnson & Salter Ch. 6 (Game)  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
-- Post your [Digital Narrative](/game.html) by 11:59pm Tuesday  
+- Post your [Digital Narrative](/DIG3171/game.html) by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 7: Generative Text Part 1**  
 - Read Johnson & Salter Ch. 7 (Bots)  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
-- Post your [Tracery](tracery.html) project by 11:59pm Tuesday  
+- Post your [Tracery](/DIG3171/tracery.html) project by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 8: Generative Texts Part 2**  
@@ -60,7 +65,7 @@
 
 **Week 9: AI Chatbots**  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
-- Post your [Chatbot](chatbot.html) by 11:59pm Tuesday  
+- Post your [Chatbot](/DIG3171/chatbot.html) by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 10: Research Proposal**  
@@ -80,17 +85,17 @@
 **Week 12: Abstract**  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
 - *Optional: Read Burdick Ch. 4: Provocations*  
-- Post your [Abstract](researchproject.md) by 11:59pm Tuesday  
+- Post your [Abstract](/DIG3171/researchproject.md) by 11:59pm Tuesday  
 - Post 2 peer reviews by 11:59pm Thursday  
 
 **Week 13: Digital Research Project**  
 - Readings: Revisit resources in prior modules as needed  
-- Post your [Digital Research Project](researchproject.md) by 11:59pm Tuesday  
+- Post your [Digital Research Project](/DIG3171/researchproject.md) by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 14: Research Project Video**  
 - Read/watch/listen to everything listed under the “Learn” heading in the module  
-- Post your [Research Project video](researchproject.md) by 11:59pm Tuesday  
+- Post your [Research Project video](/DIG3171/researchproject.md) by 11:59pm Tuesday  
 - Post 2 substantive replies by 11:59pm Thursday  
 
 **Week 15: N/A**  

@@ -1,12 +1,13 @@
 [Home](index.html) 
 ---
-# Course Schedule  
-*Notes:*
-- *This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.*
-- *This is just here for your reference. The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/courses/1488031/external_tools/374802)*
+# Course Schedule 
+
+
+*This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.
+The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/courses/1488031/external_tools/374802)* 
+
 ---
-*Consider renaming this "My Projects" or "Sample Work" and linking your projects here!*
-**Sample Work**
+## **Sample Work (links to class projects)**
 - [Distant Reading Project](distantreading.md)
 - [Digital Narrative/Game](game.html)
 - [Tracery HTML Project](tracery.html)

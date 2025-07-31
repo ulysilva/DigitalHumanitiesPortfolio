@@ -1,9 +1,15 @@
-[Home](index.html) 
+---
+title: Course Schedule & Project List
+---
+
+{% include nav.html %}
+
 ---
 # Course Schedule 
 
 
 *This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.
+
 The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/courses/1488031/external_tools/374802)* 
 
 ---

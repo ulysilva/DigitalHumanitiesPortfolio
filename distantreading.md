@@ -1,3 +1,11 @@
+---
+layout: default
+title: Distant Reading Project
+---
+
+{% include nav.html %}
+
+
 # Distant Reading Assignment 
 
 *This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*

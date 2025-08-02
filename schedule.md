@@ -27,7 +27,6 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 
 **Week 2: GitHub Digital Portfolio** (August 22-28)  
 - Read Drucker Ch. 1: (DH overview)  
-- Read Johnson & Salter Ch. 9 (Generation)  
 - Read Ratto article (What is critical making)  
 - Read/watch/listen to everything listed under the "Learn" heading in the module  
 - Post your working GitHub portfolio link by 11:59pm **Tuesday, August 26**  

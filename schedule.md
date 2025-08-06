@@ -64,7 +64,7 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 - Post your Tracery project by 11:59pm **Tuesday, September 30**  
 - Post 2 substantive replies by 11:59pm **Thursday, October 2**
 
-**Week 8: Generative Texts Part 2** (October 3-9)  
+**Week 8: Generative Text Part 2** (October 3-9)  
 - Read Sarah Roberts, "Your AI is Human" (PDF posted in Webcourse)  
 - Read/watch/listen to everything listed under the "Learn" heading in the module  
 - Post your Chatbot analysis exercise by 11:59pm **Tuesday, October 7**  

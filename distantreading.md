@@ -21,7 +21,8 @@ I also used Copilot to get information about the text! Here are some highlights 
 Me: What are the most frequent words and are they actually the most important to the text’s meaning?
 
 Copilot: Top 10 Most Frequent Words and Their Counts
-government: 28 | states: 26 | public: 24 | debt: 21 | currency: 19 | laws: 17 | reconstruction: 16 | people: 15 | union: 14 | administration: 13
+
+| government: 28 | states: 26 | public: 24 | debt: 21 | currency: 19 | laws: 17 | reconstruction: 16 | people: 15 | union: 14 | administration: 13 |
 
 Summary: The most frequent words in Grant's First Annual Message—such as government, states, public, debt, and currency—reflect the speech's focus on national recovery, governance, and economic stability. These terms are indeed central to the message’s meaning, emphasizing reconstruction, public finance, and unity in the post-Civil War era.
 

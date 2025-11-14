@@ -5,7 +5,6 @@ title: Nostalgia's Role in the Automotive Industry!
 
 <h1><a href="/DigitalHumanitiesPortfolio/AutomotiveNostalgia.html"> Nostalgia and Its Role in Modern Automotive Trends - My Final Research Project </a> </h1>
 <p> Click above to access my game! </p>
-#  
 
 
 # Abstract

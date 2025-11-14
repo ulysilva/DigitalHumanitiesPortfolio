@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Nostalgia's Role in the Automotive Industry
+title: Nostalgia's Role in the Automotive Industry!
 ---  
 
-# Nostalgia and Its Role in Modern Automotive Trends - My Final Research Project  
+<h1><a href="/DigitalHumanitiesPortfolio/AutomotiveNostalgia.html"> Nostalgia and Its Role in Modern Automotive Trends - My Final Research Project </a> </h1>
+<p> Click above to access my game! </p>
+#  
 
 
 # Abstract
@@ -46,7 +48,6 @@ Due to their direct impact, growth can be stunted by the inability to grow in mi
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
@@ -57,9 +58,33 @@ Due to their direct impact, growth can be stunted by the inability to grow in mi
 </style>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Baltas, George, and Christina Giakoumaki. “The Structure of Automotive Nostalgia: A Hedonic 
+Price Analysis of Classic Car Model Value Formation.” Journal of Economic and Administrative 
+Sciences, vol. 39, no. 1, Feb. 2023, pp. 134–49. DOI.org (Crossref), 
+https://doi.org/10.1108/JEAS-02-2021-0027.
 </p>
 
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Kremer, Patrick, et al. “Overcoming the Negative Role of Nostalgia in Consumer Reactions to 
+Automated Products.” Journal of Product Innovation Management, vol. 39, no. 6, Nov. 2022, pp. 
+871–90. DOI.org (Crossref), https://doi.org/10.1111/jpim.12641.
+</p>
+
+<p class="works-cited">
+  Lutz, Catherine. “Marketing Car Love in an Age of Fear: An Anthropological Approach to the 
+Emotional Life of a World of Automobiles.” Etnográfica. Revista Do Centro Em Rede de 
+Investigação Em Antropologia, no. vol. 19 (3), Oct. 2015, pp. 593
+603. journals.openedition.org, https://doi.org/10.4000/etnografica.4132 
+</p>
+
+<p class="works-cited">
+  Setiffi, Francesca, and Vincenzo Scotto. “Driven by Nostalgia: A Study of Classic Cars’ Social 
+Representations Among Italian Youth.” Italian Sociological Review, vol. 8, no. 2, Jun. 2018, pp. 
+265–265. italiansociologicalreview.com, https://doi.org/10.13136/isr.v8i2.237.
+</p>
+
+<p class="works-cited">
+ Tam-Scott, Derek. “Rationalizing the Lunatic Fringe: Bases of Classic Car 
+Enthusiasm.” Intersect: The Stanford Journal of Science, Technology, and Society, vol. 2, no. 1, 
+Sep. 2009, pp. 104–25. ojs.stanford.edu,
 </p>
